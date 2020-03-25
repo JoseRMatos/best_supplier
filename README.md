@@ -9,3 +9,4 @@ first we are going to connect to a SQL database using Pyodbc
 4. We filter for the most relevant columns.
 5. We combine the prices columns
 6. We clean the  ISBN, Suplier, Publisher and Currencies
+&. Merge Dictionary based on the Pub Name
