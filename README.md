@@ -8,3 +8,4 @@ first we are going to connect to a SQL database using Pyodbc
 3. We check the name of the columns
 4. We filter for the most relevant columns.
 5. We combine the prices columns
+6. We clean the  ISBN, Suplier, Publisher and Currencies
