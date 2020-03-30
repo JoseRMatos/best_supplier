@@ -21,3 +21,5 @@ first we are going to connect to a SQL database using Pyodbc
 6. Check restrictions
 7. Get landed Cost
 8. List of ISBN to ananlyse.
+
+## Now we have to clean the code and make it more efficient and make a pipeline
