@@ -55,5 +55,4 @@ The information needed is:
     17. Left Merge excelsupplier_3 with Short Discount - excelsupplier_4
     18. Left Merge excelsupplier_4 with restrictions - excelesupplier_5
     
-    
-    # Suppliers Lead time
+# Suppliers Lead time
