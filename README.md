@@ -54,3 +54,6 @@ The information needed is:
     16. Add WC to CAD to excelsupplier_2 - excelsupplier_3
     17. Left Merge excelsupplier_3 with Short Discount - excelsupplier_4
     18. Left Merge excelsupplier_4 with restrictions - excelesupplier_5
+    
+    
+    # Suppliers Lead time
